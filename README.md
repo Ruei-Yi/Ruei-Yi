@@ -2,7 +2,7 @@
 - 👀 I’m interested in graduating
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mail: ian19971119@gmail.com
+- 📫 How to reach me: ian19971119@gmail.com
 
 <!---
 Ruei-Yi/Ruei-Yi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
